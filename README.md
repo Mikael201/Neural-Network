@@ -3,7 +3,7 @@
 Machine Learning can be divided roughly into three categories:
   1. Supervised Learning (We know the labels of the data)
   2. Unsupervised Learning (We do not know the labels of the data)
-  3. Reinforcement Learning (We try to make our algorithm to learn from positive feedback)
+  3. Reinforcement Learning (We try to make our algorithm to learn from feedback)
 
 This project is an example of supervised learning with neural networks.
 
